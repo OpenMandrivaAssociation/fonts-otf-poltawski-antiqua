@@ -4,7 +4,7 @@ Version:	1.101
 Release:	7
 License:	GUST Font License
 Group:		System/Fonts/True type
-URL:		http://jmn.pl/antykwa-poltawskiego/
+URL:		https://jmn.pl/antykwa-poltawskiego/
 Source0:	http://jmn.pl/pliki/ap%{version}otf.zip
 BuildArch:	noarch
 BuildRequires:	fontconfig
