@@ -1,7 +1,7 @@
 Summary:	OpenType's Poltawski-Antiqua fonts
 Name:		fonts-otf-poltawski-antiqua
 Version:	1.101
-Release:	7
+Release:	8
 License:	GUST Font License
 Group:		System/Fonts/True type
 URL:		https://jmn.pl/antykwa-poltawskiego/
@@ -14,7 +14,7 @@ BuildRequires:	mkfontdir
 %description
 This font was designed in the 'twenties and the 'thirties
 of XX century by a Polish graphic artist and a typographer 
-Adam PÃÅÅtawski.
+Adam Półtawski.
 It was widely used by Polish printing houses as long as metal
 types were in use (until ca the 'sixties).
 
